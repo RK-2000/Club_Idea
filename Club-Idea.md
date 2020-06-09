@@ -64,7 +64,7 @@ We are doing this today with the expectation that the students who are learning 
 
 # Team Structure
 
-(image) [url]
+![Image](https://github.com/i-shivamsoni/Club_Idea/blob/master/Image_Resources/Team1.drawio.svg)
 
 ## Mentors
 Mentors will be Faculties who will guide us.
