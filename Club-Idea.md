@@ -1,14 +1,16 @@
  # AIM
 
-To unify the students, who are genuinely interested in learning about computer science, Upskill them & make them aware of all the technologies that are present around us. 
-And work for the greater good of society by using skills to solve real-world problems and To learn & grow together.
+Our main aim is to deliver our college students a fabulous theoretical and practical exposure of some of the most demanding and newly discovered technologies that are currently flurishing in the galaxy of software engineering.
+
+We want to provide an efficient and trustworthy platform to our members who genuinely wants to learn and upskill their domain of knowledge in Computer science. 
+
 We are doing this today with the expectation that the students who are learning with us will teach & form communities to help others in the future.
 
 # What we will do 
 
 - Create a Community.
-    -> Form a club on the campus.
-    -> inviting the interested students.
+    -> Form a club in the campus.
+    -> inviting only the interested students.
 
 - Learning New & Existing Technology.
     -> Introduce New Technologies.
@@ -17,7 +19,11 @@ We are doing this today with the expectation that the students who are learning 
 
 - Increase Girl Participation.
     -> Organise Girl's only events.
-    -> Invite Girls/Women experts.
+    -> Inviting Girls/Women experts.
+
+- To develop Non-technical skills.
+    -> To develop a project as a team.
+    -> To lead a team succesfully from gathering the ideas to deploying a product.
 
 - Bridging Gap Between Theory & Practical.
     -> By doing projects while learning.
@@ -35,20 +41,17 @@ We are doing this today with the expectation that the students who are learning 
 
 - Competing in Competitions.
     -> Form teams to compete in competitions
-
-- Community Building
-    -> Various community-building events.
-    
+     
 # Types of Events
 
-1 Community Events
+1. Community Events
     * Technology Introduction Sessions.
     * Hands-on Sessions & Workshops. 
     * Expert Sessions.
     * Meetups
     * Study Jams
 
-2 Technological Events
+2. Technological Events
     * Hackathons.
     * CTF's.
     * OpenSource Contribution events.
@@ -56,11 +59,11 @@ We are doing this today with the expectation that the students who are learning 
 # How college can help
 
 - Permission to conduct club actives inside the campus
-- Space for organizing (labs )
-- certificates for hands-on workshop & competition winners.
-- Relaxation in attendance
-- A projector (if required)
-- Mentors (Faculties)
+- Space for organizing events (labs)
+- Certificates for hands-on workshop & competition winners.
+- Relaxation in attendance of members only.
+- A projector (if required).
+- Mentors (Faculties).
 
 # Team Structure
 
@@ -73,6 +76,7 @@ Mentors will be Faculties who will guide us.
 * Campus Lead
 * Technical Leads
 * Mangement Leads
-    * OutReach Lead
-    * Photography & Videography
-    * Content Writing
+    * Club Manager.
+    * OutReach Lead.
+    * Photography & Videography.
+    * Content Writing.
